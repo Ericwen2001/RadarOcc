@@ -8,13 +8,13 @@ We will clean our code and provide instructions in 4 weeks.
 ### Weather conditions visualization
 
 **Snow:**
-![snow](https://github.com/user-attachments/assets/38dae50c-0ffb-44de-8d2b-846eeb3ae4ad)
+<img src="https://github.com/user-attachments/assets/38dae50c-0ffb-44de-8d2b-846eeb3ae4ad" width="300" />
 
 **Fog:**
-![fog](https://github.com/user-attachments/assets/bd7658a8-4ec4-4138-bf1a-16f83933dfeb)
+<img src="https://github.com/user-attachments/assets/bd7658a8-4ec4-4138-bf1a-16f83933dfeb" width="300" />
 
 **Night:**
-![night](https://github.com/user-attachments/assets/1aefbdfe-9920-449c-8ad4-0b44a5ce7c0c)
+<img src="https://github.com/user-attachments/assets/1aefbdfe-9920-449c-8ad4-0b44a5ce7c0c" width="300" />
 
 
 # Abstract 
