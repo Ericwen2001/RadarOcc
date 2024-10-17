@@ -2,7 +2,7 @@
 
 # [NeruIPS 2024]  RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar 
 official implementation of RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar
-We will clean our code and provide instructions for code in 4 weeks
+We will clean our code and provide instructions in 4 weeks
 </div>
 
 # Abstract 
@@ -19,7 +19,7 @@ We will clean our code and provide instructions for code in 4 weeks
 
 
 # Getting Started
-Please follow installation instruction from OpenOccupancy
+Please follow installation instructions from OpenOccupancy
 
 - [Installation](docs/install.md) 
 
