@@ -1,9 +1,13 @@
-<div align="center">   
+![snow](https://github.com/user-attachments/assets/0fd4ca49-d992-4e93-8313-1bc8be6ec6e8)<div align="center">   
 
 # [NeruIPS 2024]  RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar 
 official implementation of RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar
 We will clean our code and provide instructions in 4 weeks
 </div>
+
+![snow](https://github.com/user-attachments/assets/38dae50c-0ffb-44de-8d2b-846eeb3ae4ad)
+![fog](https://github.com/user-attachments/assets/bd7658a8-4ec4-4138-bf1a-16f83933dfeb)
+![night](https://github.com/user-attachments/assets/1aefbdfe-9920-449c-8ad4-0b44a5ce7c0c)
 
 # Abstract 
 
