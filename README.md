@@ -1,7 +1,5 @@
 <div align="center">   
 
-
-We will clean our code and provide instructions for code in 4 weeks
 # RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar --- NeruIPS'24 
 official implementation of NeruIPS'24 RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar
 We will clean our code and provide instructions for code in 4 weeks
