@@ -8,9 +8,9 @@ We will clean our code and provide instructions in 4 weeks.
 ### Weather conditions visualization
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/38dae50c-0ffb-44de-8d2b-846eeb3ae4ad" width="250" alt="Snow" />
-  <img src="https://github.com/user-attachments/assets/bd7658a8-4ec4-4138-bf1a-16f83933dfeb" width="250" alt="Fog" />
-  <img src="https://github.com/user-attachments/assets/1aefbdfe-9920-449c-8ad4-0b44a5ce7c0c" width="250" alt="Night" />
+  <img src="https://github.com/user-attachments/assets/38dae50c-0ffb-44de-8d2b-846eeb3ae4ad" width="275" alt="Snow" />
+  <img src="https://github.com/user-attachments/assets/bd7658a8-4ec4-4138-bf1a-16f83933dfeb" width="275" alt="Fog" />
+  <img src="https://github.com/user-attachments/assets/1aefbdfe-9920-449c-8ad4-0b44a5ce7c0c" width="275" alt="Night" />
 </div>
 
 
